@@ -15,5 +15,10 @@ p {
   font-size: 14px;
   font-family: Arial
 }
-
+th, td {
+  padding:8px;
+  text-align: left;
+  border-bottom: Arial;
+}
+tr:nth-child(odd) {background-color: #f2f2f2;}
 
